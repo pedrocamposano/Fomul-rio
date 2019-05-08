@@ -117,8 +117,9 @@ img{
   width: 100%;
  }
  input{
-    height: 50px;
+    height: 60px;
     color: #2f38b5;
+    font-size: 20px;
  }
  form  {
     font-size: 10px; 
