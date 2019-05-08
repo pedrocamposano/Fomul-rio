@@ -130,25 +130,25 @@ label{
 }
 .submit input {
     background-color: black;
-    height: 80px;
+    height: 100px;
     width: 300px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     border: 1px solid;
     color: white;
-    font-size: 30px;
+    font-size: 40px;
 }
 .submit2 input {
     background-color: #4662f2;
-    height: 80px;
+    height: 100px;
     width: 400px;
     border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border: 1px solid;
     color: white;
-    margin-bottom: 50px;
-    margin-top: 50px;
+    margin-bottom: 60px;
+    margin-top: 60px;
     font-size: 40px;
 }
 }
